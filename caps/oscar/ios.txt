@@ -1,0 +1,7 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.2"
+deviceName = "iPhone 8"
+app = '/Users/oscar/treinamento_appium/ninja essence.app'
+udid = "4A570F9A-E003-45DC-AB97-C0E1D8DFF7EC"
+noReset = true

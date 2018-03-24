@@ -1,0 +1,8 @@
+[caps]
+appPackage = "com.inducesmile.androidecommerceshop"
+appiumVersion = '1.7.2'
+deviceName = 'Samsung Galaxy S8 Plus GoogleAPI Emulator'
+deviceOrientation = 'portrait'
+platformVersion = '7.1'
+platformName = 'Android'
+app = 'sauce-storage:android.apk'
