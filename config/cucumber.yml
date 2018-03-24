@@ -7,4 +7,4 @@ ios: PLATFORM=ios --exclude features/android
 
 oscar: QA=oscar
 
-jenkins: QA=jenkins
+jenkins: QA=jenkins -f json -o reports/report.json
